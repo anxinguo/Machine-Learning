@@ -1,4 +1,5 @@
 '''GSOM算法
+E-mail: anxinguoguo@126.com
 '''
 #引入库
 import numpy as np
